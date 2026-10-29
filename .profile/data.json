@@ -1,0 +1,1049 @@
+{
+ "key": "75e125b6",
+ "stars": 2,
+ "contributions": 714,
+ "repos": 220,
+ "followers": 1,
+ "languages": [
+  [
+   "Kotlin",
+   26041069
+  ],
+  [
+   "C++",
+   4864964
+  ],
+  [
+   "JavaScript",
+   276542
+  ],
+  [
+   "Python",
+   238273
+  ],
+  [
+   "HTML",
+   136306
+  ],
+  [
+   "CSS",
+   30779
+  ],
+  [
+   "CMake",
+   23130
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 3,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 12,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 15,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 4,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 29,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 9,
+  "longest": 12
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "Miku-prompt",
+   "url": "https://github.com/siapagatau/Miku-prompt",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Peler-v4",
+   "url": "https://github.com/siapagatau/Peler-v4",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "siapagatau",
+   "url": "https://github.com/siapagatau/siapagatau",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "SKIN-DTX-PREMIUM",
+   "url": "https://github.com/siapagatau/SKIN-DTX-PREMIUM",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "DTX-SUP-EVENT",
+   "url": "https://github.com/siapagatau/DTX-SUP-EVENT",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTXEVENTWE",
+   "url": "https://github.com/siapagatau/DTXEVENTWE",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTXEVENTCUY",
+   "url": "https://github.com/siapagatau/DTXEVENTCUY",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTXEVENTFIX",
+   "url": "https://github.com/siapagatau/DTXEVENTFIX",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTXEVENT",
+   "url": "https://github.com/siapagatau/DTXEVENT",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "NUSA-FIXAKSESI",
+   "url": "https://github.com/siapagatau/NUSA-FIXAKSESI",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "NUSA-FIXGAR",
+   "url": "https://github.com/siapagatau/NUSA-FIXGAR",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "NUSADRO-LAKIR",
+   "url": "https://github.com/siapagatau/NUSADRO-LAKIR",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-FIXPOTSET",
+   "url": "https://github.com/siapagatau/DTX-FIXPOTSET",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-UPSETSUFIX",
+   "url": "https://github.com/siapagatau/DTX-UPSETSUFIX",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "DTX-UPSETSU",
+   "url": "https://github.com/siapagatau/DTX-UPSETSU",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "MIXDTX-SKIN",
+   "url": "https://github.com/siapagatau/MIXDTX-SKIN",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "NUSA-ANDRO",
+   "url": "https://github.com/siapagatau/NUSA-ANDRO",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "MIXDTX-PROJECT2",
+   "url": "https://github.com/siapagatau/MIXDTX-PROJECT2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "MIXDTX-PROJECT",
+   "url": "https://github.com/siapagatau/MIXDTX-PROJECT",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "MIXDTX5",
+   "url": "https://github.com/siapagatau/MIXDTX5",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "MIXDTX4",
+   "url": "https://github.com/siapagatau/MIXDTX4",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "MIXDTX3",
+   "url": "https://github.com/siapagatau/MIXDTX3",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "MIXDTX2",
+   "url": "https://github.com/siapagatau/MIXDTX2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "MIXDTX",
+   "url": "https://github.com/siapagatau/MIXDTX",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "JOSMIXER",
+   "url": "https://github.com/siapagatau/JOSMIXER",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "nusa",
+   "url": "https://github.com/siapagatau/nusa",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "SKIN-MIXER-HP",
+   "url": "https://github.com/siapagatau/SKIN-MIXER-HP",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "KAROKEH-MIXER",
+   "url": "https://github.com/siapagatau/KAROKEH-MIXER",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "MIXER-HP",
+   "url": "https://github.com/siapagatau/MIXER-HP",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "GO-TO-MIXER",
+   "url": "https://github.com/siapagatau/GO-TO-MIXER",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "KAROKEH",
+   "url": "https://github.com/siapagatau/KAROKEH",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "APK-DTX-PRO",
+   "url": "https://github.com/siapagatau/APK-DTX-PRO",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "DTX-VISUAL-TOUCH-FIX-MSC",
+   "url": "https://github.com/siapagatau/DTX-VISUAL-TOUCH-FIX-MSC",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-VISUAL-TOUCH-FIX",
+   "url": "https://github.com/siapagatau/DTX-VISUAL-TOUCH-FIX",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-VISUAL-TOUCH3",
+   "url": "https://github.com/siapagatau/DTX-VISUAL-TOUCH3",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-VISUAL-TOUCH2",
+   "url": "https://github.com/siapagatau/DTX-VISUAL-TOUCH2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-VISUAL-TOUCH",
+   "url": "https://github.com/siapagatau/DTX-VISUAL-TOUCH",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "NoiseCam",
+   "url": "https://github.com/siapagatau/NoiseCam",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "BurstStackCam",
+   "url": "https://github.com/siapagatau/BurstStackCam",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "KARAOKE-REVERB-FLOAT-ALESIS",
+   "url": "https://github.com/siapagatau/KARAOKE-REVERB-FLOAT-ALESIS",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-REQUEST-CUSTOM",
+   "url": "https://github.com/siapagatau/DTX-REQUEST-CUSTOM",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "VTuber_Android3",
+   "url": "https://github.com/siapagatau/VTuber_Android3",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "VTuber_Android2",
+   "url": "https://github.com/siapagatau/VTuber_Android2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "VTuber_Android1",
+   "url": "https://github.com/siapagatau/VTuber_Android1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "VTuber_Android",
+   "url": "https://github.com/siapagatau/VTuber_Android",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-SUPORT-LED-FIXUPDATE",
+   "url": "https://github.com/siapagatau/DTX-SUPORT-LED-FIXUPDATE",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "PRO-DTX-KENDANG",
+   "url": "https://github.com/siapagatau/PRO-DTX-KENDANG",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "DTX-SUPORT-LED",
+   "url": "https://github.com/siapagatau/DTX-SUPORT-LED",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-SUPPORT-SKIN-FIX-16KB",
+   "url": "https://github.com/siapagatau/DTX-SUPPORT-SKIN-FIX-16KB",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-SUPPORT-SKIN-NEXTP",
+   "url": "https://github.com/siapagatau/DTX-SUPPORT-SKIN-NEXTP",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-SUPPORT-SKIN-FIXDIALOG",
+   "url": "https://github.com/siapagatau/DTX-SUPPORT-SKIN-FIXDIALOG",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-SUPPORT-SKIN-1",
+   "url": "https://github.com/siapagatau/DTX-SUPPORT-SKIN-1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-SUPPORT-SKIN",
+   "url": "https://github.com/siapagatau/DTX-SUPPORT-SKIN",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-MIDI-SUPPORT",
+   "url": "https://github.com/siapagatau/DTX-MIDI-SUPPORT",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "AI-PROMPT",
+   "url": "https://github.com/siapagatau/AI-PROMPT",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "DTX-SETSU-EXTRA-PAD",
+   "url": "https://github.com/siapagatau/DTX-SETSU-EXTRA-PAD",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "POKEFORT-APP",
+   "url": "https://github.com/siapagatau/POKEFORT-APP",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "DTX-SETSU-FIX-ALL-LIMIT",
+   "url": "https://github.com/siapagatau/DTX-SETSU-FIX-ALL-LIMIT",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-SETSU-UPDATE-1",
+   "url": "https://github.com/siapagatau/DTX-SETSU-UPDATE-1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-SETSU-UPDATE",
+   "url": "https://github.com/siapagatau/DTX-SETSU-UPDATE",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "kumpulan-wav-dtx",
+   "url": "https://github.com/siapagatau/kumpulan-wav-dtx",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "DTX-RECORD-SCREEN-8",
+   "url": "https://github.com/siapagatau/DTX-RECORD-SCREEN-8",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-RECORD-SCREEN-7",
+   "url": "https://github.com/siapagatau/DTX-RECORD-SCREEN-7",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-RECORD-SCREEN-6",
+   "url": "https://github.com/siapagatau/DTX-RECORD-SCREEN-6",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-RECORD-SCREEN-5",
+   "url": "https://github.com/siapagatau/DTX-RECORD-SCREEN-5",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-RECORD-SCREEN-4",
+   "url": "https://github.com/siapagatau/DTX-RECORD-SCREEN-4",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-RECORD-SCREEN-3",
+   "url": "https://github.com/siapagatau/DTX-RECORD-SCREEN-3",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-RECORD-SCREEN-2",
+   "url": "https://github.com/siapagatau/DTX-RECORD-SCREEN-2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-RECORD-SCREEN-1",
+   "url": "https://github.com/siapagatau/DTX-RECORD-SCREEN-1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-RECORD-SCREEN",
+   "url": "https://github.com/siapagatau/DTX-RECORD-SCREEN",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "PROSES-UP-PLAY-2",
+   "url": "https://github.com/siapagatau/PROSES-UP-PLAY-2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "PROSES-UP-PLAY-1",
+   "url": "https://github.com/siapagatau/PROSES-UP-PLAY-1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "privacy",
+   "url": "https://github.com/siapagatau/privacy",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "PROSES-UP-PLAY",
+   "url": "https://github.com/siapagatau/PROSES-UP-PLAY",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "PROSES-UP-PLAY-FREE-2",
+   "url": "https://github.com/siapagatau/PROSES-UP-PLAY-FREE-2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "PROSES-UP-PLAY-FREE-1",
+   "url": "https://github.com/siapagatau/PROSES-UP-PLAY-FREE-1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "PROSES-UP-PLAY-FREE",
+   "url": "https://github.com/siapagatau/PROSES-UP-PLAY-FREE",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "KAROKE-MIC-ALESIS-3",
+   "url": "https://github.com/siapagatau/KAROKE-MIC-ALESIS-3",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "KAROKE-MIC-ALESIS-2",
+   "url": "https://github.com/siapagatau/KAROKE-MIC-ALESIS-2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "KAROKE-MIC-ALESIS-1",
+   "url": "https://github.com/siapagatau/KAROKE-MIC-ALESIS-1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "KAROKE-MIC-ALESIS",
+   "url": "https://github.com/siapagatau/KAROKE-MIC-ALESIS",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-ANDROID-ONLINE-OPC-TUTOR-3",
+   "url": "https://github.com/siapagatau/DTX-ANDROID-ONLINE-OPC-TUTOR-3",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-ANDROID-ONLINE-OPC-TUTOR-2",
+   "url": "https://github.com/siapagatau/DTX-ANDROID-ONLINE-OPC-TUTOR-2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "ANDROID-ONLINE-OPC-TUTOR-2",
+   "url": "https://github.com/siapagatau/ANDROID-ONLINE-OPC-TUTOR-2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "DTX-ANDROID-ONLINE-OPC-TUTOR-1",
+   "url": "https://github.com/siapagatau/DTX-ANDROID-ONLINE-OPC-TUTOR-1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-ANDROID-ONLINE-OPC-TUTOR",
+   "url": "https://github.com/siapagatau/DTX-ANDROID-ONLINE-OPC-TUTOR",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "KARAOKE-REVERB-FLOAT-10",
+   "url": "https://github.com/siapagatau/KARAOKE-REVERB-FLOAT-10",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "KARAOKE-REVERB-FLOAT-9",
+   "url": "https://github.com/siapagatau/KARAOKE-REVERB-FLOAT-9",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "KARAOKE-REVERB-FLOAT-8",
+   "url": "https://github.com/siapagatau/KARAOKE-REVERB-FLOAT-8",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "KARAOKE-REVERB-FLOAT-7",
+   "url": "https://github.com/siapagatau/KARAOKE-REVERB-FLOAT-7",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "KARAOKE-REVERB-FLOAT-6",
+   "url": "https://github.com/siapagatau/KARAOKE-REVERB-FLOAT-6",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "KARAOKE-REVERB-FLOAT-5",
+   "url": "https://github.com/siapagatau/KARAOKE-REVERB-FLOAT-5",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "KARAOKE-REVERB-FLOAT-4",
+   "url": "https://github.com/siapagatau/KARAOKE-REVERB-FLOAT-4",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "KARAOKE-REVERB-FLOAT-3",
+   "url": "https://github.com/siapagatau/KARAOKE-REVERB-FLOAT-3",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "KARAOKE-REVERB-FLOAT-2",
+   "url": "https://github.com/siapagatau/KARAOKE-REVERB-FLOAT-2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "KARAOKE-REVERB-FLOAT-1",
+   "url": "https://github.com/siapagatau/KARAOKE-REVERB-FLOAT-1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "KARAOKE-REVERB-FLOAT",
+   "url": "https://github.com/siapagatau/KARAOKE-REVERB-FLOAT",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-ANDROID-ONLINE-LOAD-15",
+   "url": "https://github.com/siapagatau/DTX-ANDROID-ONLINE-LOAD-15",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-ANDROID-ONLINE-LOAD-14",
+   "url": "https://github.com/siapagatau/DTX-ANDROID-ONLINE-LOAD-14",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-ANDROID-ONLINE-LOAD-13",
+   "url": "https://github.com/siapagatau/DTX-ANDROID-ONLINE-LOAD-13",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  }
+ ]
+}

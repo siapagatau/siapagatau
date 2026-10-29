@@ -8,10 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/siapagatau/SKIN-DTX-PREMIUM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-skin-dtx-premium-dark.svg"><img src="assets/project-skin-dtx-premium-light.svg" width="49%" alt="SKIN-DTX-PREMIUM"></picture></a>&nbsp;<a href="https://github.com/siapagatau/DTX-SUP-EVENT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dtx-sup-event-dark.svg"><img src="assets/project-dtx-sup-event-light.svg" width="49%" alt="DTX-SUP-EVENT"></picture></a>
-
-<a href="https://github.com/siapagatau/DTXEVENTWE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dtxeventwe-dark.svg"><img src="assets/project-dtxeventwe-light.svg" width="49%" alt="DTXEVENTWE"></picture></a>&nbsp;<a href="https://github.com/siapagatau/DTXEVENTCUY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dtxeventcuy-dark.svg"><img src="assets/project-dtxeventcuy-light.svg" width="49%" alt="DTXEVENTCUY"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
