@@ -1,17 +1,17 @@
 {
- "key": "5d385be7",
+ "key": "3d2f9b99",
  "stars": 2,
- "contributions": 749,
- "repos": 260,
+ "contributions": 751,
+ "repos": 261,
  "followers": 1,
  "languages": [
   [
    "Kotlin",
-   36700155
+   36333863
   ],
   [
    "C++",
-   4945180
+   4881222
   ],
   [
    "Python",
@@ -31,7 +31,7 @@
   ],
   [
    "CMake",
-   28261
+   28339
   ]
  ],
  "days": [
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 6,
+    "c": 9,
     "day": 16,
     "today": true
    },
@@ -149,6 +149,15 @@
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "GPMix-Android",
+   "url": "https://github.com/siapagatau/GPMix-Android",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
    "topics": []
   },
   {
@@ -1018,15 +1027,6 @@
   {
    "name": "DTX-SETSU-UPDATE-1",
    "url": "https://github.com/siapagatau/DTX-SETSU-UPDATE-1",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "DTX-SETSU-UPDATE",
-   "url": "https://github.com/siapagatau/DTX-SETSU-UPDATE",
    "text": "",
    "fork": false,
    "stars": 0,
