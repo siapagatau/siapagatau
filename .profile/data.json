@@ -1,37 +1,37 @@
 {
- "key": "ddfc1479",
+ "key": "eef93dd9",
  "stars": 2,
- "contributions": 753,
- "repos": 263,
+ "contributions": 755,
+ "repos": 265,
  "followers": 1,
  "languages": [
   [
    "Kotlin",
-   37442331
+   38207330
   ],
   [
    "C++",
-   4934124
+   5143872
   ],
   [
    "Python",
-   657912
+   683473
   ],
   [
    "JavaScript",
-   276542
+   193552
   ],
   [
    "HTML",
-   134129
-  ],
-  [
-   "CSS",
-   30779
+   133463
   ],
   [
    "CMake",
-   29005
+   29992
+  ],
+  [
+   "CSS",
+   29404
   ]
  ],
  "days": [
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 6,
     "day": 18,
     "today": true
    },
@@ -157,6 +157,24 @@
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "DTX-BY-FIX-PLAY",
+   "url": "https://github.com/siapagatau/DTX-BY-FIX-PLAY",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "gpmixtes",
+   "url": "https://github.com/siapagatau/gpmixtes",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
    "topics": []
   },
   {
@@ -1021,24 +1039,6 @@
    "fork": false,
    "stars": 0,
    "language": "HTML",
-   "topics": []
-  },
-  {
-   "name": "DTX-SETSU-EXTRA-PAD",
-   "url": "https://github.com/siapagatau/DTX-SETSU-EXTRA-PAD",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "POKEFORT-APP",
-   "url": "https://github.com/siapagatau/POKEFORT-APP",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
    "topics": []
   }
  ]
