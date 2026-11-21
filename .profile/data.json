@@ -1,37 +1,37 @@
 {
- "key": "66f10b79",
+ "key": "d55b457b",
  "stars": 2,
- "contributions": 763,
- "repos": 273,
+ "contributions": 766,
+ "repos": 276,
  "followers": 1,
  "languages": [
   [
    "Kotlin",
-   40751092
+   43258875
   ],
   [
    "C++",
-   5657985
+   6001553
   ],
   [
    "Python",
-   771325
+   797671
   ],
   [
    "JavaScript",
-   204653
+   189257
   ],
   [
    "HTML",
-   100156
+   92720
   ],
   [
    "CMake",
-   32543
+   33761
   ],
   [
    "CSS",
-   29404
+   14702
   ]
  ],
  "days": [
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 4,
+    "c": 10,
     "day": 21,
     "today": true
    }
@@ -169,6 +169,33 @@
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "DTX-YT-AMAN",
+   "url": "https://github.com/siapagatau/DTX-YT-AMAN",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-YT-UP",
+   "url": "https://github.com/siapagatau/DTX-YT-UP",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-KALIBRASI-YT",
+   "url": "https://github.com/siapagatau/DTX-KALIBRASI-YT",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
    "topics": []
   },
   {
@@ -1024,33 +1051,6 @@
    "fork": false,
    "stars": 0,
    "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "VTuber_Android",
-   "url": "https://github.com/siapagatau/VTuber_Android",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "DTX-SUPORT-LED-FIXUPDATE",
-   "url": "https://github.com/siapagatau/DTX-SUPORT-LED-FIXUPDATE",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "PRO-DTX-KENDANG",
-   "url": "https://github.com/siapagatau/PRO-DTX-KENDANG",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
    "topics": []
   }
  ]
