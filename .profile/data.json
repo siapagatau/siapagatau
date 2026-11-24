@@ -1,21 +1,21 @@
 {
- "key": "1e0071b4",
+ "key": "5085bc13",
  "stars": 2,
- "contributions": 772,
- "repos": 283,
+ "contributions": 775,
+ "repos": 286,
  "followers": 1,
  "languages": [
   [
    "Kotlin",
-   47345958
+   48253955
   ],
   [
    "C++",
-   6415419
+   6522695
   ],
   [
    "Python",
-   824017
+   841581
   ],
   [
    "JavaScript",
@@ -27,7 +27,7 @@
   ],
   [
    "CMake",
-   35737
+   35798
   ],
   [
    "CSS",
@@ -121,7 +121,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 9,
     "day": 24,
     "today": true
    },
@@ -153,6 +153,33 @@
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "DTX-FDILFIX",
+   "url": "https://github.com/siapagatau/DTX-FDILFIX",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "DTX-FDIL",
+   "url": "https://github.com/siapagatau/DTX-FDIL",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "MIX-FDIL",
+   "url": "https://github.com/siapagatau/MIX-FDIL",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
    "topics": []
   },
   {
@@ -1004,33 +1031,6 @@
   {
    "name": "DTX-VISUAL-TOUCH-FIX",
    "url": "https://github.com/siapagatau/DTX-VISUAL-TOUCH-FIX",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "DTX-VISUAL-TOUCH3",
-   "url": "https://github.com/siapagatau/DTX-VISUAL-TOUCH3",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "DTX-VISUAL-TOUCH2",
-   "url": "https://github.com/siapagatau/DTX-VISUAL-TOUCH2",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "DTX-VISUAL-TOUCH",
-   "url": "https://github.com/siapagatau/DTX-VISUAL-TOUCH",
    "text": "",
    "fork": false,
    "stars": 0,
